@@ -11,3 +11,6 @@
 #cointainer1{
     background-color:#a8dadc;
 }
+#cointainer1 p{
+    text-transform: capitalize;
+}
