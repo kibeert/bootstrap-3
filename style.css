@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.cointainer-fluid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly ;
+    margin-top: 20px;
+}
+#cointainer1{
+    background-color: grey;
+}
