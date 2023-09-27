@@ -14,3 +14,9 @@
 #cointainer1 p{
     text-transform: capitalize;
 }
+#cointainer3 img{
+    align-items: flex-start;
+    
+    width :28%;
+    height: 400px;
+}
